@@ -9,7 +9,7 @@ I'm a software developer, and a A 4th year IT student at [Damascus University](h
 [![email][b-email]][l-email] 
 [![LinkedIn][b-linkedin]][l-linkedin] 
 
-[l-email]: obada.almaleh.engineer@gmail.com
+[l-email]: mailto:obada.almaleh.engineer@gmail.com
 [l-linkedin]: https://www.linkedin.com/in/obada-al-maleh/
 [b-email]: https://img.shields.io/badge/email-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white
 [b-linkedin]: https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white
