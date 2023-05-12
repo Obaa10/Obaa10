@@ -1,8 +1,8 @@
-# 👋 Hello! I'm Obada Maleh
+# 👋 Hello! I'm Obada Al-Maleh
 
 I'm a software developer, and a A 4th year IT student at [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
 
-<p align="center"> I belief that the best time to discover IT sections is at this age and this part time of life.</p>
+<i align="center"> I belief that the best time to discover IT sections is at this age and this part time of life.</i>
 
 ## Contact information
 
