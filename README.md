@@ -2,7 +2,7 @@
 
 I'm a software developer, and a A 5th year IT student at [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
 
-<i align="center"> I belief that the best time to discover IT sections is at this age and this part time of life.</i>
+<i align="center">Experienced Full Stack Engineer with a proven track record in the software industry. Proficient in NodeJS, Laravel, NextJS Flutter, and Android Development.</i>
 
 ## Contact information
 
