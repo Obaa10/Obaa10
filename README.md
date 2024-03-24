@@ -1,8 +1,6 @@
 # 👋 Hello! I'm Obada Al-Maleh
 
-I'm a software developer, and a A 5th year IT student at [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
-
-<i align="center">Experienced Full Stack Engineer with a proven track record in the software industry. Proficient in NodeJS, Laravel, NextJS Flutter, and Android Development.</i>
+<i align="center">I'm a Software Engineer, Experienced Full Stack Engineer with a proven track record in the software industry. Proficient in NodeJS, Express, React, and Mobile Development.</i>
 
 ## Contact information
 
